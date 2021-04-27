@@ -1,0 +1,57 @@
+body{
+	background-image: url(logo.png);
+    background-color: #E0FFFF;
+    background-blend-mode: lighten;
+    overflow-y: scroll;
+}
+#para{
+    padding-left: 25%;
+    padding-right: 27%;
+    text-align: center;
+}
+
+
+.nav.navbar-nav.navbar-right li a {
+	color: white;
+}
+
+.navbar.navbar-expand-lg.navbar-light{
+	background-color: #9370DB;
+	box-shadow: 5px 5px 10px 3px;
+}
+
+.extra{
+	margin-top: 30px;
+}
+
+.dropdown-menu a {
+	color: black !important;
+}
+
+.navbar-brand{
+	color: white;
+}
+
+footer{
+	position: fixed;
+	padding: 10px 0;
+	background-color: #101010;
+	color:#9d9d9d;
+	bottom: 0;
+	width: 100%;
+}
+
+.extra{
+	margin-bottom: 100px;
+}
+
+.calculator{
+	max-width: 500px;
+	border-radius: 25px;
+	border: 1px solid black;
+	padding-bottom: 20px;
+}
+
+body{
+	font-family: 'Varela Round', sans-serif;
+}
